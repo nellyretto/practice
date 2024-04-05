@@ -1,7 +1,5 @@
 # Binary Trees
 
-#
-Project Overview
 
 This repository contains a group project with C language on Binary Trees. 
 
@@ -23,9 +21,9 @@ All files are written in C and follows the Betty coding style for Holberton Scho
 
 Binary Trees defines as a hierarchical structure where each node has at most two children, which are known as left child and right child.
 
-*Parent nodes:* refers to the node has two or more subordinated nodes connected to it.
+**Parent nodes:** refers to the node has two or more subordinated nodes connected to it.
 
-*Children nodes:* refers to the nodes that are directly connected and subordinated to another node, knows as teh parent node. 
+**Children nodes:** refers to the nodes that are directly connected and subordinated to another node, knows as teh parent node. 
 
 ## Binary Tree visually
 
