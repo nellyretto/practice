@@ -29,7 +29,7 @@ Binary Trees defines as a hierarchical structure where each node has at most two
 
 ## Binary Tree visually
 
-![Binary Tree](g.jpeg)
+![Binary Tree](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUiMO7gKGW7TH4iUOfmbAkOID4Mto7R3i198BROpOB5BpQ3syNmfOSEx5czDF3q4dU3tN_yo6BSHpWBBC87Zfie4G8AQ06yx03i_XnSSyNWI26UKsn8mhutSOIo9uhpsGt0uqH1QdY0_99ay593GcrF1-4xdiV57i11HjHjVMkk9cPA6SknBC-rIVKQ4VN/s320/g.jpeg)
 
 ## Contributors
 ##### Thais Rodriguez
