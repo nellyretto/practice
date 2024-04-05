@@ -29,7 +29,7 @@ Binary Trees defines as a hierarchical structure where each node has at most two
 
 ## Binary Tree visually
 
-![binary tree](blob:https://web.whatsapp.com/84ffadc5-7e7a-4572-a5d8-11df4f3b6a4a)
+![Binary Tree Example](./WhatsApp%20Image%202024-04-01%20at%206.49.57%20PM.jpeg)
 
 ## Contributors
 ##### Thais Rodriguez
