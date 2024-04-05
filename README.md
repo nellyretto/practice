@@ -35,9 +35,9 @@ Binary Trees defines as a hierarchical structure where each node has at most two
 
 `0. New node`
 
-Write a function that creates a binary tree node
+# Write a function that creates a binary tree node
 
-### prototype
+**prototype**
 ```c
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 ```
@@ -46,16 +46,16 @@ binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 
 # Write a function that inserts a node as the left-child of another node
 
-### prototype
+**prototype**
 ```c
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
 ```
 
 `2. Insert right`
 
-**Write a function that inserts a node as the right-child of another node**
+# Write a function that inserts a node as the right-child of another node
 
-### prototype
+**prototype**
 ```c
 binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
 ```
@@ -64,7 +64,7 @@ binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
 
 # Write a function that deletes an entire binary tree
 
-### prototype
+**prototype**
 ```c
 void binary_tree_delete(binary_tree_t *tree)
 ```
@@ -73,7 +73,7 @@ void binary_tree_delete(binary_tree_t *tree)
 
 # Write a function that checks if a node is a leaf
 
-### prototype
+**prototype**
 ```c
 int binary_tree_is_leaf(const binary_tree_t *node)
 ```
@@ -82,7 +82,7 @@ int binary_tree_is_leaf(const binary_tree_t *node)
 
 # Write a function that checks if a given node is a root
 
-### rototype
+**prototype**
 ```c
 int binary_tree_is_root(const binary_tree_t *node)
 ```
@@ -91,16 +91,16 @@ int binary_tree_is_root(const binary_tree_t *node)
 
 # Write a function that goes through a binary tree using pre-order traversal
 
-### prototype
+**prototype**
 ```c
 void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int))
 ```
 
 `7. In-order traversal`
 
-# rite a function that goes through a binary tree using in-order traversal
+# Write a function that goes through a binary tree using in-order traversal
 
-### prototype
+**prototype**
 ```c
 void binary_tree_inorder(const binary_tree_t *tree, void (*func)(int))
 ```
@@ -109,7 +109,7 @@ void binary_tree_inorder(const binary_tree_t *tree, void (*func)(int))
 
 # Write a function that goes through a binary tree using post-order traversal
 
-### prototype
+**prototype**
 ```c
 void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
 ```
@@ -118,7 +118,7 @@ void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
 
 # Write a function that measures the height of a binary tree
 
-### prototype
+**prototype**
 ```c
 size_t binary_tree_height(const binary_tree_t *tree)
 ```
@@ -127,7 +127,7 @@ size_t binary_tree_height(const binary_tree_t *tree)
 
 # Write a function that measures the depth of a node in a binary tree
 
-### prototype
+**prototype**
 ```c
 size_t binary_tree_depth(const binary_tree_t *tree)
 ```
@@ -136,7 +136,7 @@ size_t binary_tree_depth(const binary_tree_t *tree)
 
 # Write a function that measures the size of a binary tree
 
-### prototype
+**prototype**
 ```c
 size_t binary_tree_size(const binary_tree_t *tree)
 ```
@@ -145,7 +145,7 @@ size_t binary_tree_size(const binary_tree_t *tree)
 
 **Write a function that counts the leaves in a binary tree**
 
-### prototype
+**prototype**
 ```c
 size_t binary_tree_leaves(const binary_tree_t *tree)
 ```
@@ -154,7 +154,7 @@ size_t binary_tree_leaves(const binary_tree_t *tree)
 
 # Write a function that counts the nodes with at least 1 child in a binary tree
 
-### prototype
+**prototype**
 ```c
 size_t binary_tree_nodes(const binary_tree_t *tree)
 ```
@@ -163,7 +163,7 @@ size_t binary_tree_nodes(const binary_tree_t *tree)
 
 # Write a function that measures the balance factor of a binary tree
 
-### prototype
+**prototype**
 ```c
 int binary_tree_balance(const binary_tree_t *tree)
 ```
@@ -172,7 +172,7 @@ int binary_tree_balance(const binary_tree_t *tree)
 
 # Write a function that checks if a binary tree is full
 
-### prototype
+**prototype**
 ```c
 int binary_tree_is_full(const binary_tree_t *tree)
 ```
@@ -181,7 +181,7 @@ int binary_tree_is_full(const binary_tree_t *tree)
 
 # Write a function that checks if a binary tree is perfect
 
-### prototype
+**prototype**
 ```c
 int binary_tree_is_perfect(const binary_tree_t *tree)
 ```
@@ -190,7 +190,7 @@ int binary_tree_is_perfect(const binary_tree_t *tree)
 
 # Write a function that finds the sibling of a node
 
-### prototype
+**prototype**
 ```c
 binary_tree_t *binary_tree_sibling(binary_tree_t *node)
 ```
@@ -199,7 +199,7 @@ binary_tree_t *binary_tree_sibling(binary_tree_t *node)
 
 # Write a function that finds the uncle of a node
 
-### prototype
+**prototype**
 ```c
 binary_tree_t *binary_tree_uncle(binary_tree_t *node)
 ```
