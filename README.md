@@ -34,7 +34,9 @@ Binary Trees defines as a hierarchical structure where each node has at most two
 ## Project Overview
 
 `0. New node`
+
 **Write a function that creates a binary tree node**
+### prototype
 ```c
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 ```
