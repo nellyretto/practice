@@ -45,6 +45,7 @@ void insertion_sort_list(listint_t **list)
 ## Selection sort
 
 Selection sort is a simple and efficient sorting algorithm that works by repeatedly selecting the smallest (or largest) element from the unsorted portion of the list and moving it to the sorted portion of the list. 
+
 In **Selection sort**
 * Set minIndex to position 0 (minIndex will hold the index of the smallest number in the unsorted subarray)
 * Search for the smallest element in the unsorted subarray and update minIndex
