@@ -10,14 +10,12 @@ Big O notation is a mathematical notation that describes the limiting behavior o
 
 ## Bubble sort
 
-Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order. This algorithm is not suitable for large data sets as its average and worst-case time complexity is quite high.
 
 In **Bubble Sort** algorithm
 *traverse from left and compare adjacent elements and the higher one is placed at right side.
 *In this way, the largest element is moved to the rightmost end at first.
 *This process is then continued to find the second largest and place it and so on until the data is sorted.
 
-![sortbubble](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.productplan.com%2Fglossary%2Fbubble-sort%2F&psig=AOvVaw0JnxviKdnRNCBXi2imfdOa&ust=1712890498165000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICrm7-UuYUDFQAAAAAdAAAAABAJ"1")
 
 `0. Bubble sort`
 ## Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
@@ -26,6 +24,28 @@ In **Bubble Sort** algorithm
 ```c
 void bubble_sort(int *array, size_t size)
 ```
+
+Insertion sort is a simple sorting algorithm that works by iteratively inserting each element of an unsorted list into its correct position in a sorted portion of the list. It is a stable sorting algorithm, meaning that elements with equal values maintain their relative order in the sorted output.
+
+In **Insertion sort**
+* Start with second element of the array as first element in the array is assumed to be sorted.
+* Compare second element with the first element and check if the second element is smaller then swap them.
+* Move to the third element and compare it with the second element, then the first element and swap as necessary to put it in the correct position among the first three elements.
+* Continue this process, comparing each element with the ones before it and swapping as needed to place it in the correct position among the sorted elements.
+* Repeat until the entire array is sorted.
+
+`1. Insertion sort`
+## Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
+
+**prototype**
+```c
+void insertion_sort_list(listint_t **list)
+```
+
+
+
+
+
 
 ## Contributors
 ##### Thais Rodriguez
