@@ -10,7 +10,8 @@ Big O notation is a mathematical notation that describes the limiting behavior o
 
 ## Bubble sort
 
-![bubble](https://www.google.com/search?sca_esv=65fba0e0f9a9cf94&sxsrf=ACQVn0-gHsMS-ZK1IzyKmOsHqpEvMTSsIQ:1712805766355&q=bubble+sort+example&uds=AMwkrPubqdDjBmC7DhicLtpZCZYiVrZCKsaj4bJXLo7CBbZN7hZvg1L5AK-GyFSMPMWghZ0zqqnwWh7Qey1EDZxVNZtAKwnCfkODMBZ8tiEJfMWS8SlZRbMKintnS_tNlelzh0AcSHJ0Wjoc_vvoSPsv-6rJfhqIYzb8HWS7n3v4qsPR_bL8WNc-RnT0qfTCjZr0VKZA025rVI_rdH2nApQs5Nbaf3xE14pv4UGy1FC5hY7lzA2nHS5-q53HFQB2Hhzz5VDvzkQj1KgpNJhX08nEFQEI3Kw51LW4TdBn7wytEGODFUNCtaqGXxkrTLKqnlVEsvld-2zr&udm=2&prmd=ivsnbmtz&sa=X&ved=2ahUKEwizgJfamrmFAxXFfTABHeToAigQtKgLegQIDRAB&biw=1309&bih=738&dpr=2.2#vhid=C5J8OHK99_vz7M&vssid=mosaic)
+![bubble](https://www.google.com/search?sca_esv=65fba0e0f9a9cf94&sxsrf=ACQVn0-gHsMS-ZK1IzyKmOsHqpEvMTSsIQ:1712805766355&q=bubble+sort+example&uds=AMwkrPubqdDjBmC7DhicLtpZCZYiVrZCKsaj4bJXLo7CBbZN7hZvg1L5AK-GyFSMPMWghZ0zqqnwWh7Qey1EDZxVNZtAKwnCfkODMBZ8tiEJfMWS8SlZRbMKintnS_tNlelzh0AcSHJ0Wjoc_vvoSPsv-6rJfhqIYzb8HWS7n3v4qsPR_bL8WNc-RnT0qfTCjZr0VKZA025rVI_rdH2nApQs5Nbaf3xE14pv4UGy1FC5hY7lzA2nHS5-q53HFQB2Hhzz5VDvzkQj1KgpNJhX08nEFQEI3Kw51LW4TdBn7wytEGODFUNCtaqGXxkrTLKqnlVEsvld-2zr&udm=2&prmd=ivsnbmtz&sa=X&ved=2ahUKEwizgJfamrmFAxXFfTABHeToAigQtKgLegQIDRAB&biw=1309&bih=738&dpr=2.2#vhid=C5J8OHK99_vz7M&vssid=mosaic "Bubble":wq
+)
 
 In **Bubble Sort** algorithm
 * Traverse from left and compare adjacent elements and the higher one is placed at right side.
