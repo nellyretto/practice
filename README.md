@@ -82,7 +82,7 @@ void quick_sort(int *array, size_t size)
 
 
 ## Contributors
-##### Thais Rodriguez
+##### Vonzell Carson
 Holberton School, cohort 23
 ##### Danielys Carrasquillo
 Holberton School, cohort 23
