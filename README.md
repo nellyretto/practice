@@ -10,7 +10,6 @@ Big O notation is a mathematical notation that describes the limiting behavior o
 
 ## Bubble sort
 
-![bubble](https://discord.com/channels/@me/1153019625781600367/1227822177471041556)
 
 In **Bubble Sort** algorithm
 * Traverse from left and compare adjacent elements and the higher one is placed at right side.
