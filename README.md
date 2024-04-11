@@ -17,7 +17,7 @@ In **Bubble Sort** algorithm
 *In this way, the largest element is moved to the rightmost end at first.
 *This process is then continued to find the second largest and place it and so on until the data is sorted.
 
-![sortbubble](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.productplan.com%2Fglossary%2Fbubble-sort%2F&psig=AOvVaw0JnxviKdnRNCBXi2imfdOa&ust=1712890498165000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICrm7-UuYUDFQAAAAAdAAAAABAJ)
+![sortbubble](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.productplan.com%2Fglossary%2Fbubble-sort%2F&psig=AOvVaw0JnxviKdnRNCBXi2imfdOa&ust=1712890498165000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICrm7-UuYUDFQAAAAAdAAAAABAJ"1")
 
 `0. Bubble sort`
 ## Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
