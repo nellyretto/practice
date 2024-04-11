@@ -65,7 +65,7 @@ void selection_sort(int *array, size_t size)
 ## Quick sort
 QuickSort is a sorting algorithm based on the Divide and Conquer algorithm that picks an element as a pivot and partitions the given array around the picked pivot by placing the pivot in its correct position in the sorted array.
 
-In **Quick Sort*
+In **Quick Sort**
 * Always pick the first element as a pivot.
 * Always pick the first element as a pivot.
 * Pick a random element as a pivot.
