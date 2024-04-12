@@ -15,7 +15,7 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -Wno-format *.c
 
 All files are written in C and follows the Betty coding style for Holberton School. For more detail, check this page:
 
-![Betty documentation](https://github.com/alx-tools/Betty/wiki)
+[Betty documentation](https://github.com/alx-tools/Betty/wiki)
 
 
 
