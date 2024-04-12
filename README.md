@@ -4,11 +4,10 @@ This repository  contains a program that creates a simple shell for the **Holber
 
 
 ## Project Overview
-
-All files will be compiled with gcc 9.4.0 using the flags: -Wall -Werror -Wextra -pedantic -std=gnu89 -Wno-format *.c
+Your shell will be compiled this way:
 
 ```c
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -Wno-format *.c
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 ```
 
 ## Betty coding style:
@@ -20,6 +19,8 @@ All files are written in C and follows the Betty coding style for Holberton Scho
 # What is a Shell?
 
 The C shell is an interactive command interpreter and a command programming language. It uses syntax that is similar to the C programming language.
+
+### File descriptor
 
 ## Testing
 
@@ -142,7 +143,7 @@ TERM=xterm-256color
 PATH=/home/julien/bin:/home/julien/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 DISPLAY=:0
 $ exit
-julien@ubuntu:~/shell$ 
+julien@ubuntu:~/shell$
 ```
 
 
