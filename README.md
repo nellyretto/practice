@@ -1,4 +1,4 @@
-# Simple Shelll Creation
+ Simple Shelll Creation
 
 This repository  contains a program that creates a simple shell for the **Holbertonschool-simple_shell** at **Holberton School**.
 
@@ -18,7 +18,8 @@ All files are written in C and follows the Betty coding style for Holberton Scho
 
 # What is a Shell?
 
-![shell](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40pipebustamante%2Ftutorial-to-code-a-simple-shell-in-c-6fa3e1422c29&psig=AOvVaw36c6JGTguX3fTL4R20oIQz&ust=1713926569933000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiB3pSo14UDFQAAAAAdAAAAABAE)
+![shell](https://miro.medium.com/v2/resize:fit:1200/format:webp/0*lUVCVsOZdXA45mGy.gif)
+
 
 The C shell is an interactive command interpreter and a command programming language. It uses syntax that is similar to the C programming language.
 
