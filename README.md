@@ -1,5 +1,8 @@
  # Simple Shelll Creation
 
+# Pretty Nelly [![Nelly](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+
+
 ![shell](https://cdn-media-1.freecodecamp.org/images/lZYW9AXx3yncn8AKjXfSfJIfxdjmvclgvIy7)
 
 This repository  contains a program that creates a simple shell for the **Holbertonschool-simple_shell** at **Holberton School**.
