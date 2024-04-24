@@ -1,5 +1,7 @@
  # Simple Shelll Creation
 
+![shell](https://i.pinimg.com/originals/97/b3/12/97b312409fbcabc96d97ef45bf8f852b.gif)
+
 This repository  contains a program that creates a simple shell for the **Holbertonschool-simple_shell** at **Holberton School**.
 
 
