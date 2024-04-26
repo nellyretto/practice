@@ -1,6 +1,6 @@
 # Simple Shell 
 
-![Shell](image-1.png)
+![Shell](https://upload.wikimedia.org/wikipedia/commons/1/1d/Animated_GNU_Bash_Unix_Shell_Prompt.gif)
 
 Write a simple UNIX command interpreter, "The Gates of S(h)ell".
 
