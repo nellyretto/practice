@@ -127,3 +127,4 @@ $ echo "/bin/ls" | ./hsh
 
 This project is licensed under the Holberto School Sofware Engineering Program
 
+![flowchart](file:///Users/nelly/Desktop/Screenshot%202024-04-26%20at%202.57.15%E2%80%AFAM.png)
