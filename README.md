@@ -1,1 +1,1 @@
-# learnin how to use vscode for myself :D
+# liajroiroiwherijemrd
